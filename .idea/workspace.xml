@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c357ee18-38a4-4bb3-9c2b-3febde83a6d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chp4/chp4-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,13 +178,29 @@
       <option name="presentableId" value="Default" />
       <updated>1615467568734</updated>
     </task>
+    <task id="LOCAL-00001" summary="第三次更新">
+      <created>1616035459335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616035459335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第三次更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="25" key="#first" timestamp="1615467645655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="488" y="25" key="#first/0.0.1536.824@0.0.1536.824" timestamp="1615467645655" />
+    <state x="409" y="6" key="CommitChangelistDialog2" timestamp="1616035456729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1616035456729" />
     <state width="1515" height="231" key="GridCell.Tab.0.bottom" timestamp="1615975261083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -221,6 +237,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615795111151" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1616035471316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1616035471316" />
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1615940880039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
